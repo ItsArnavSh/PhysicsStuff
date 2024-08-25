@@ -1,0 +1,10 @@
+/home/arnav/vault/simulations/vite-rust-wasm/target/debug/deps/libwasm_bindgen_test-eecfd0795954fc88.rmeta: /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/arnav/vault/simulations/vite-rust-wasm/target/debug/deps/wasm_bindgen_test-eecfd0795954fc88.d: /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs /home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs
+
+/home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/lib.rs:
+/home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/mod.rs:
+/home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/browser.rs:
+/home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/detect.rs:
+/home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/node.rs:
+/home/arnav/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-test-0.3.42/src/rt/worker.rs:

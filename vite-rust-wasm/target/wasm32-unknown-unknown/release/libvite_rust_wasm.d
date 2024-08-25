@@ -1,0 +1,1 @@
+/home/arnav/vault/simulations/vite-rust-wasm/target/wasm32-unknown-unknown/release/libvite_rust_wasm.rlib: /home/arnav/vault/simulations/vite-rust-wasm/src/lib.rs /home/arnav/vault/simulations/vite-rust-wasm/src/utils.rs
